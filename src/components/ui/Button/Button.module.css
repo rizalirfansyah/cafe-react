@@ -8,9 +8,13 @@
 }
 
 .button-primary {
-  background-color: #1e1e1e;
-  border: 1px solid #1e1e1e;
+  background-color: #0a3cb1;
+  border: 1px solid #0a3cb1;
   color: #fafafa;
+}
+
+.button-primary:hover {
+  background-color: #09318f;
 }
 
 .button-secondary {
