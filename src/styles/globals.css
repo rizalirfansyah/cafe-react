@@ -40,3 +40,10 @@ svg {
   width: 100%;
   display: block;
 }
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}

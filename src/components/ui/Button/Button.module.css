@@ -11,6 +11,7 @@
   background-color: #0a3cb1;
   border: 1px solid #0a3cb1;
   color: #fafafa;
+  transition: 0.4s ease;
 }
 
 .button-primary:hover {
