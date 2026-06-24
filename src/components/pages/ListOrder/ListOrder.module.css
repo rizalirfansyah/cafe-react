@@ -1,0 +1,31 @@
+.order {
+  padding: 16px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.button {
+  display: flex;
+  gap: 12px;
+}
+
+.table {
+  width: 100%;
+}
+
+.table th,
+td {
+  padding: 10px;
+}
+
+.action {
+  display: flex;
+  gap: 12px;
+  /* padding: 12px 12px; */
+  /* justify-content: center; */
+}
