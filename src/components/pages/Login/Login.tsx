@@ -8,6 +8,7 @@ import { useNavigate } from "react-router-dom";
 
 const Login = () => {
   const navigate = useNavigate();
+
   const handleLogin = async (event: FormEvent) => {
     event.preventDefault();
     const form = event.target as HTMLFormElement;
